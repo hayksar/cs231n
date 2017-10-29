@@ -1,0 +1,13 @@
+Hit:1 http://us-west1.gce.archive.ubuntu.com/ubuntu xenial InRelease
+Hit:2 http://us-west1.gce.archive.ubuntu.com/ubuntu xenial-updates InRelease
+Hit:3 http://us-west1.gce.archive.ubuntu.com/ubuntu xenial-backports InRelease
+Hit:4 http://archive.canonical.com/ubuntu xenial InRelease
+Hit:5 http://security.ubuntu.com/ubuntu xenial-security InRelease
+Reading package lists...
+**************************************************
+*****  End of Google Cloud Set-up Script  ********
+**************************************************
+
+If you had no errors, You can proceed to work with your virtualenv as normal.
+(run 'source .env/bin/activate' in your assignment directory to load the venv,
+ and run 'deactivate' to exit the venv. See assignment handout for details.)
